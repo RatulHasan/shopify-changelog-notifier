@@ -36,7 +36,7 @@ except ValueError:
     SMTP_PORT = 587
 
 # ---------------------------
-# 📦 Load previously seen entries
+# 📦 Load previously seen entries with pretty formatting
 # ---------------------------
 
 if os.path.exists(DB_FILE):
@@ -118,15 +118,16 @@ for email in TO_EMAILS:
         print(f"❌ Failed to send email to {email}: {e}")
 
 # ---------------------------
-# 💾 Update the seen database (only if emails were sent successfully)
+# 💾 Update the seen database with pretty formatting (only if emails were sent successfully)
 # ---------------------------
 
 if email_success_count > 0:
     seen_links.update(entry.link for entry in new_entries)
     try:
         with open(DB_FILE, "w") as f:
-            json.dump(list(seen_links), f)
-        print("✅ Updated changelog DB.")
+            # Pretty print JSON with each URL on a separate line
+            json.dump(sorted(list(seen_links)), f, indent=2)
+        print("✅ Updated changelog DB with pretty formatting.")
     except Exception as e:
         print(f"❌ Failed to update changelog DB: {e}")
 else:
