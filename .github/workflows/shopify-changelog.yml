@@ -9,10 +9,14 @@ on:
 jobs:
   check-changelog:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,3 +35,11 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
+
+      - name: Commit updated database
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .changelog_db.json
+          git diff --staged --quiet || git commit -m "Update changelog database"
+          git push
