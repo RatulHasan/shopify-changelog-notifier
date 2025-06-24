@@ -4,7 +4,10 @@ on:
   schedule:
     # Runs daily at 11 AM UTC+6 (which is 5 AM UTC)
     - cron: '0 5 * * *'
+    - cron: '30 5 * * *'
   workflow_dispatch:      # Allows manual trigger
+  push: # Keeps repo active to prevent workflow disabling
+    branches: [ main ]
 
 jobs:
   check-changelog:
