@@ -69,6 +69,7 @@
   "https://shopify.dev/changelog/skeleton-theme-is-now-available",
   "https://shopify.dev/changelog/standardized-target-and-operation-names-across-function-apis",
   "https://shopify.dev/changelog/subscription-discounts-are-now-available-in-the-customer-api",
+  "https://shopify.dev/changelog/sunsetting-flex-sections-developer-preview",
   "https://shopify.dev/changelog/the-ab-cookie-will-no-longer-be-set",
   "https://shopify.dev/changelog/the-shopifydev-mcp-server-now-supports-polaris-web-components",
   "https://shopify.dev/changelog/the-summer-25-edition-is-here",
@@ -76,5 +77,6 @@
   "https://shopify.dev/changelog/uncapped-graphql-counts",
   "https://shopify.dev/changelog/updated-shopify-theme-store-requirements-and-submission-process-effective-may-15-2025",
   "https://shopify.dev/changelog/updates-effective-july-16-to-our-partner-program-agreement-and-api-license-and-terms-of-use",
-  "https://shopify.dev/changelog/use-cartdeliverygroupsgrouptype-in-function-apis-to-determine-the-type-of-delivery-group"
+  "https://shopify.dev/changelog/use-cartdeliverygroupsgrouptype-in-function-apis-to-determine-the-type-of-delivery-group",
+  "https://shopify.dev/changelog/web-pixels-now-run-on-customer-accounts-and-order-status-page"
 ]
