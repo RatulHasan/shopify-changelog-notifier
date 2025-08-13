@@ -18,6 +18,7 @@
   "https://shopify.dev/changelog/contextual-pricing-and-publishing-apis-use-backup-region-fallback",
   "https://shopify.dev/changelog/customerprivacy-api-now-available-for-customer-account-extensions",
   "https://shopify.dev/changelog/declarative-custom-data-definitions",
+  "https://shopify.dev/changelog/deprecation-of-checkoutandaccountsconfigurationsupdate-webhook",
   "https://shopify.dev/changelog/deprecation-of-legacy-return-apis-and-improvements-to-return-management",
   "https://shopify.dev/changelog/deprecation-of-post-requests-without-a-content-length-or-transfer-encoding-chunked-header",
   "https://shopify.dev/changelog/deprecation-of-tax-code-field",
