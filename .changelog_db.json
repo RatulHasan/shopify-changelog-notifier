@@ -1,5 +1,6 @@
 [
   "https://shopify.dev/changelog/add-createdupdated-at-time-based-filters-for-an-orders-fulfillments",
+  "https://shopify.dev/changelog/add-option-to-filter-by-dispute-type-in-order-list",
   "https://shopify.dev/changelog/add-shopid-to-appscopesupdate-webhook-payload",
   "https://shopify.dev/changelog/add-support-for-title-filtering-with-articles",
   "https://shopify.dev/changelog/add-warnings-for-discount-codes",
