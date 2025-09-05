@@ -80,6 +80,7 @@
   "https://shopify.dev/changelog/request-app-reviews-in-admin-with-the-new-reviews-api",
   "https://shopify.dev/changelog/sellingplannotapplicableoncompanylocation-warning-code-for-storefront-api",
   "https://shopify.dev/changelog/server-pixels-added-subtotalprice-to-checkout-events",
+  "https://shopify.dev/changelog/setting-permitsskusharing-argument-to-false-when-creating-a-fulfillment-service-returns-an-error",
   "https://shopify.dev/changelog/shipping-rates-return-backup-rates-for-3xx-and-4xx-carrier-responses",
   "https://shopify.dev/changelog/shop-metafield-now-in-admin",
   "https://shopify.dev/changelog/shopify-app-store-reviews-now-move-between-published-and-archived-states-based-on-merchant-status",
