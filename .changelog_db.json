@@ -67,6 +67,7 @@
   "https://shopify.dev/changelog/optional-groupobjects-argument-in-bulk-operations-mutations-that-offers-faster-and-more-reliable-job-execution",
   "https://shopify.dev/changelog/order-editing-api-supports-discounts-on-fulfilled-line-items",
   "https://shopify.dev/changelog/order-editing-workflows-now-offer-direct-session-access-via-mutation-arguments-and-return-fields",
+  "https://shopify.dev/changelog/order-metafield-definitions-and-values-can-now-be-used-as-filters-in-the-shopify-admin-ui",
   "https://shopify.dev/changelog/ordercancel-mutation-now-supports-refunds-to-store-credit",
   "https://shopify.dev/changelog/orders-query-now-supports-currenttotalprice-and-totalweight-filters-and-currenttotalprice-as-a-sortkey",
   "https://shopify.dev/changelog/payment-app-extensions-deployment-just-got-faster",
