@@ -64,6 +64,7 @@
   "https://shopify.dev/changelog/new-guidelines-for-referencedocumenturi-in-inventory-adjustments",
   "https://shopify.dev/changelog/new-liquid-filter-for-displaying-unit-prices",
   "https://shopify.dev/changelog/new-mandate-connection-added-to-customerpaymentmethod-object",
+  "https://shopify.dev/changelog/new-metafield-definition-types-in-graphql-articlereference-listarticlereference",
   "https://shopify.dev/changelog/new-pagination-limits-for-liquid-storefront-graphql-api",
   "https://shopify.dev/changelog/new-preservestandalonevariant-strategy-for-productvariantsbulkcreate-mutation",
   "https://shopify.dev/changelog/new-reference-documentation-for-shopify-function-apis",
