@@ -106,6 +106,7 @@
   "https://shopify.dev/changelog/removal-of-support-for-sell-from-all-locations-fulfillable-inventory-setting",
   "https://shopify.dev/changelog/remove-unprocessed-exchange-lines-from-a-return",
   "https://shopify.dev/changelog/removed-tax-related-fields-from-the-shopfeatures-object",
+  "https://shopify.dev/changelog/removing-storefront-visibility-field-on-metaobject-field-definitions",
   "https://shopify.dev/changelog/request-app-reviews-in-admin-with-the-new-reviews-api",
   "https://shopify.dev/changelog/rerouting-fulfillment-orders-via-api",
   "https://shopify.dev/changelog/sellingplannotapplicableoncompanylocation-warning-code-for-storefront-api",
