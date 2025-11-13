@@ -150,6 +150,7 @@
   "https://shopify.dev/changelog/sunsetting-flex-sections-developer-preview",
   "https://shopify.dev/changelog/support-for-bulk-ad-campaign-search-terms-export",
   "https://shopify.dev/changelog/support-metafield-and-metaobject-standards-in-declarative-custom-data-definitions",
+  "https://shopify.dev/changelog/tax-webhook-summary-and-calculation-requests-now-use-global-ids",
   "https://shopify.dev/changelog/taxsummariescreate-webhook-and-taxsummarycreate-mutation-now-available",
   "https://shopify.dev/changelog/the-ab-cookie-will-no-longer-be-set",
   "https://shopify.dev/changelog/the-cartdiscountcodeupdate-mutation-now-requires-the-discountcodes-field",
