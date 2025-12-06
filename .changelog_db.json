@@ -100,6 +100,7 @@
   "https://shopify.dev/changelog/optional-groupobjects-argument-in-bulk-operations-mutations-that-offers-faster-and-more-reliable-job-execution",
   "https://shopify.dev/changelog/optional-location-inputs-for-inventory-transfers",
   "https://shopify.dev/changelog/order-editing-api-supports-discounts-on-fulfilled-line-items",
+  "https://shopify.dev/changelog/order-editing-new-validations-and-handled-usererrors",
   "https://shopify.dev/changelog/order-editing-workflows-now-offer-direct-session-access-via-mutation-arguments-and-return-fields",
   "https://shopify.dev/changelog/order-metafield-definitions-and-values-can-now-be-used-as-filters-in-the-shopify-admin-ui",
   "https://shopify.dev/changelog/order-update-phone-field-public",
