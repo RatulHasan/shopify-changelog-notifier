@@ -173,6 +173,7 @@
   "https://shopify.dev/changelog/updates-effective-july-16-to-our-partner-program-agreement-and-api-license-and-terms-of-use",
   "https://shopify.dev/changelog/upgrade-to-the-latest-version-of-checkout-kit-to-avoid-issues-with-ios-26",
   "https://shopify.dev/changelog/use-cartdeliverygroupsgrouptype-in-function-apis-to-determine-the-type-of-delivery-group",
+  "https://shopify.dev/changelog/venmo-and-paypal-are-now-treated-as-separate-payment-methods",
   "https://shopify.dev/changelog/web-pixels-now-run-on-customer-accounts-and-order-status-page",
   "https://shopify.dev/changelog/your-app-may-be-affected-by-remote-products"
 ]
