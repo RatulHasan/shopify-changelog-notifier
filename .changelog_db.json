@@ -56,6 +56,7 @@
   "https://shopify.dev/changelog/enhanced-api-stability-with-rate-limiting-for-remote-payment-method-creation",
   "https://shopify.dev/changelog/enhanced-delivery-profile-webhooks-now-include-additional-payload-fields",
   "https://shopify.dev/changelog/facebook-meta-orders-support-native-exchanges",
+  "https://shopify.dev/changelog/faster-bulk-operations",
   "https://shopify.dev/changelog/finalizing-compare-and-swap-redesign-for-inventory-set-quantities",
   "https://shopify.dev/changelog/flow-improved-send-http-request-action-enables-secure-connections-and-returns-data-to-the-workflow",
   "https://shopify.dev/changelog/font-library-updates-automatic-replacement-for-deprecated-fonts",
