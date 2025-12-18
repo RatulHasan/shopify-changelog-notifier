@@ -44,6 +44,7 @@
   "https://shopify.dev/changelog/deprecation-of-post-requests-without-a-content-length-or-transfer-encoding-chunked-header",
   "https://shopify.dev/changelog/deprecation-of-tax-code-field",
   "https://shopify.dev/changelog/dev-mcp-now-supports-pos-ui-extensions",
+  "https://shopify.dev/changelog/discount-rejection-support-for-discount-functions",
   "https://shopify.dev/changelog/draft-order-line-item-limit",
   "https://shopify.dev/changelog/duplicate-themes-with-the-admin-graphql-api",
   "https://shopify.dev/changelog/dynamic-complexity-cost-for-productcreate-and-productupdate-mutations",
