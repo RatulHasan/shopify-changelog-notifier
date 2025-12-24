@@ -184,6 +184,7 @@
   "https://shopify.dev/changelog/sunsetting-flex-sections-developer-preview",
   "https://shopify.dev/changelog/support-for-bulk-ad-campaign-search-terms-export",
   "https://shopify.dev/changelog/support-metafield-and-metaobject-standards-in-declarative-custom-data-definitions",
+  "https://shopify.dev/changelog/tax-partner-apps-can-now-receive-cart-line-properties-in-tax-calculation-requests",
   "https://shopify.dev/changelog/tax-summary-webhook-and-calculation-requests-now-include-customer-and-company-metafields",
   "https://shopify.dev/changelog/tax-summary-webhook-and-calculation-requests-now-includes-shop-and-presentment-currency-amount",
   "https://shopify.dev/changelog/tax-summary-webhook-created-at-field-now-returns-utc-timezone",
