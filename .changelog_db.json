@@ -1,5 +1,6 @@
 [
   "https://shopify.dev/changelog/a-more-powerful-dev-assistant-on-shopifydev",
+  "https://shopify.dev/changelog/access-transactions-on-the-return-object",
   "https://shopify.dev/changelog/add-createdupdated-at-time-based-filters-for-an-orders-fulfillments",
   "https://shopify.dev/changelog/add-option-to-filter-by-dispute-type-in-order-list",
   "https://shopify.dev/changelog/add-shopid-to-appscopesupdate-webhook-payload",
@@ -176,6 +177,7 @@
   "https://shopify.dev/changelog/simplified-app-store-requirements",
   "https://shopify.dev/changelog/simplified-bfs-design-requirements",
   "https://shopify.dev/changelog/skeleton-theme-is-now-available",
+  "https://shopify.dev/changelog/standardization-of-asset-url-version-parameters",
   "https://shopify.dev/changelog/standardized-target-and-operation-names-across-function-apis",
   "https://shopify.dev/changelog/store-credit-notify-flag",
   "https://shopify.dev/changelog/store-credit-now-supports-company-locations-as-account-owners-in-admin-and-customer-apis",
