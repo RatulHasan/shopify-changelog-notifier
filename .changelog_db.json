@@ -86,6 +86,7 @@
   "https://shopify.dev/changelog/inventory-item-variant-field-deprecation",
   "https://shopify.dev/changelog/inventory-shipment-receive-mutation-now-supports-idempotency",
   "https://shopify.dev/changelog/inventory-shipment-timestamp-fields",
+  "https://shopify.dev/changelog/inventoryactivate-now-preserves-available-quantity",
   "https://shopify.dev/changelog/inventoryquantities-limit-in-mutations",
   "https://shopify.dev/changelog/liquid-is-getting-faster-and-ready-to-evolve",
   "https://shopify.dev/changelog/liquiddoc-for-snippets-and-blocks",
