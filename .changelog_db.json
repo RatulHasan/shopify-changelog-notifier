@@ -186,6 +186,7 @@
   "https://shopify.dev/changelog/store-credit-now-supports-company-locations-as-account-owners-in-admin-and-customer-apis",
   "https://shopify.dev/changelog/storefront-api-cart-now-supports-adding-gift-cards",
   "https://shopify.dev/changelog/storefront-api-cart-now-supports-replacing-cart-delivery-addresses",
+  "https://shopify.dev/changelog/storefront-api-now-returns-a-specific-error-code-when-cart-transform-functions-fail",
   "https://shopify.dev/changelog/storefront-api-now-returns-errors-when-adding-a-gift-card-to-a-cart-with-missing-or-invalid-recipient-details",
   "https://shopify.dev/changelog/subscription-billing-attempt-invalid-billing-address-error",
   "https://shopify.dev/changelog/subscription-billing-attempts-throttling",
