@@ -62,6 +62,8 @@
   "https://shopify.dev/changelog/edit-line-items-selling-plans",
   "https://shopify.dev/changelog/enhanced-api-stability-with-rate-limiting-for-remote-payment-method-creation",
   "https://shopify.dev/changelog/enhanced-delivery-profile-webhooks-now-include-additional-payload-fields",
+  "https://shopify.dev/changelog/ensuring-pos-ui-extension-stability-by-hardening-callback-handling",
+  "https://shopify.dev/changelog/events-data-now-limited-to-one-year-retention",
   "https://shopify.dev/changelog/extended-surface-support-for-shopifyappextensions-now-including-admin-and-storefront",
   "https://shopify.dev/changelog/facebook-meta-orders-support-native-exchanges",
   "https://shopify.dev/changelog/faster-bulk-operations",
