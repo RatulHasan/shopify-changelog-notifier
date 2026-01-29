@@ -62,6 +62,7 @@
   "https://shopify.dev/changelog/edit-line-items-selling-plans",
   "https://shopify.dev/changelog/enhanced-api-stability-with-rate-limiting-for-remote-payment-method-creation",
   "https://shopify.dev/changelog/enhanced-delivery-profile-webhooks-now-include-additional-payload-fields",
+  "https://shopify.dev/changelog/enhanced-discount-function-configuration-with-admin-ui-extensions",
   "https://shopify.dev/changelog/ensuring-pos-ui-extension-stability-by-hardening-callback-handling",
   "https://shopify.dev/changelog/events-data-now-limited-to-one-year-retention",
   "https://shopify.dev/changelog/extended-surface-support-for-shopifyappextensions-now-including-admin-and-storefront",
