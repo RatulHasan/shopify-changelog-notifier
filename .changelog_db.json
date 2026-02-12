@@ -1,5 +1,6 @@
 [
   "https://shopify.dev/changelog/a-more-powerful-dev-assistant-on-shopifydev",
+  "https://shopify.dev/changelog/accelerated-checkout-now-supports-addons-from-the-product-page",
   "https://shopify.dev/changelog/access-transactions-on-the-return-object",
   "https://shopify.dev/changelog/add-createdupdated-at-time-based-filters-for-an-orders-fulfillments",
   "https://shopify.dev/changelog/add-option-to-filter-by-dispute-type-in-order-list",
@@ -242,5 +243,6 @@
   "https://shopify.dev/changelog/use-cartdeliverygroupsgrouptype-in-function-apis-to-determine-the-type-of-delivery-group",
   "https://shopify.dev/changelog/venmo-and-paypal-are-now-treated-as-separate-payment-methods",
   "https://shopify.dev/changelog/web-pixels-now-run-on-customer-accounts-and-order-status-page",
+  "https://shopify.dev/changelog/webhook-subscriptions-now-support-a-name-field-for-identification",
   "https://shopify.dev/changelog/your-app-may-be-affected-by-remote-products"
 ]
