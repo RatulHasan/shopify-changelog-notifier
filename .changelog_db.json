@@ -168,6 +168,7 @@
   "https://shopify.dev/changelog/protected-customer-data-scopes-required",
   "https://shopify.dev/changelog/public-access-for-app-owned-metafields-and-metaobjects-is-now-disabled",
   "https://shopify.dev/changelog/recommend-theme-blocks-in-the-block-picker",
+  "https://shopify.dev/changelog/remaining-line-items-weight-available-for-fulfillment-orders",
   "https://shopify.dev/changelog/removal-of-deprecated-shopdraftorders-connection-in-admin-graphql-api",
   "https://shopify.dev/changelog/removal-of-payment-method-requirement-on-api-created-subscription-contracts",
   "https://shopify.dev/changelog/removal-of-support-for-sell-from-all-locations-fulfillable-inventory-setting",
