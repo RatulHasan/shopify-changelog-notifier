@@ -1202,6 +1202,7 @@
   "https://shopify.dev/changelog/private-apps-are-automatically-converting-to-custom-apps",
   "https://shopify.dev/changelog/private-apps-can-now-check-their-deprecated-calls",
   "https://shopify.dev/changelog/privatemetafield-is-now-deprecated",
+  "https://shopify.dev/changelog/process-refunds-only-through-the-original-payment-processor-requirement-update",
   "https://shopify.dev/changelog/product-category-included-in-product-webhooks",
   "https://shopify.dev/changelog/product-create-serves-input-errors-as-user-errors",
   "https://shopify.dev/changelog/product-duplication-now-duplicates-variant-metafields",
