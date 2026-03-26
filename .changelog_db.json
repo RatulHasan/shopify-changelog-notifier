@@ -1625,6 +1625,7 @@
   "https://shopify.dev/changelog/the-rest-location-resource-requires-locations-scope",
   "https://shopify.dev/changelog/the-scripttag-resource-now-prevents-apps-from-creating-more-than-100-tags-for-a-shop",
   "https://shopify.dev/changelog/the-shopify-app-store-is-now-available-in-4-additional-languages",
+  "https://shopify.dev/changelog/the-shopify-cli-app-release-force-flag-is-deprecated-and-will-be-removed",
   "https://shopify.dev/changelog/the-shopify-pos-app-sdk-now-supports-applying-discount-codes",
   "https://shopify.dev/changelog/the-shopifydev-mcp-server-now-supports-polaris-web-components",
   "https://shopify.dev/changelog/the-summer-23-edition-is-live",
