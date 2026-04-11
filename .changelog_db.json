@@ -922,6 +922,7 @@
   "https://shopify.dev/changelog/new-customeractivatebyurl-mutation",
   "https://shopify.dev/changelog/new-delivery-promise-participants-api",
   "https://shopify.dev/changelog/new-delivery-promise-provider-api-object",
+  "https://shopify.dev/changelog/new-discount-fields-in-the-storefront-cart-graphql-api",
   "https://shopify.dev/changelog/new-discount-function-api",
   "https://shopify.dev/changelog/new-discounts-allocator-function-api-in-developer-preview",
   "https://shopify.dev/changelog/new-dynamic-source-attributes-available-in-the-online-store-editor",
