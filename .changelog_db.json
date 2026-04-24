@@ -182,6 +182,7 @@
   "https://shopify.dev/changelog/authorization-errors-in-mutations-are-refined",
   "https://shopify.dev/changelog/auto-activation-of-charges-and-subscriptions",
   "https://shopify.dev/changelog/automated-testing-for-shopify-ui-extensions-with-shopify-ui-extensions-tester",
+  "https://shopify.dev/changelog/automatic-css-subsetting-for-stylesheet-tags",
   "https://shopify.dev/changelog/automatic-discount-functions-now-apply-to-b2b-checkouts-for-review",
   "https://shopify.dev/changelog/automatic-discount-functions-now-apply-to-b2b-sessions",
   "https://shopify.dev/changelog/automatic-free-shipping-discount-now-available-on-graphql-admin-api",
