@@ -835,6 +835,7 @@
   "https://shopify.dev/changelog/migrating-theme-commands-over-to-cli-3-0",
   "https://shopify.dev/changelog/minimum-purchase-prerequisites-added-to-rest-admin-api-price-rules",
   "https://shopify.dev/changelog/minimum-requirement-is-now-optional-on-automatic-discounts",
+  "https://shopify.dev/changelog/minor-rounding-change-for-custom-line-item-discounts-in-pos-115",
   "https://shopify.dev/changelog/mobile-platform-application-release",
   "https://shopify.dev/changelog/modal-api-added-to-the-latest-version-of-app-bridge",
   "https://shopify.dev/changelog/modal-src-attribute-added-to-the-latest-version-of-app-bridge",
