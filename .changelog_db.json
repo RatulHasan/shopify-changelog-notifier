@@ -128,6 +128,7 @@
   "https://shopify.dev/changelog/amazonpay-and-facebookpay-enumerated-in-digitalwallets",
   "https://shopify.dev/changelog/amount-no-longer-required-on-draftorderapplieddiscountinput",
   "https://shopify.dev/changelog/analytics-api-now-available-for-customer-account-ui-extensions",
+  "https://shopify.dev/changelog/analytics-metric-targets-now-available-in-the-graphql-admin-api",
   "https://shopify.dev/changelog/api-call-limits-will-be-applied-to-variant-creation",
   "https://shopify.dev/changelog/api-stringconnection-includes-nodes-field",
   "https://shopify.dev/changelog/api-version-2019-10-is-now-available",
