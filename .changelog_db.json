@@ -737,6 +737,7 @@
   "https://shopify.dev/changelog/inventory-shipment-receive-mutation-now-supports-idempotency",
   "https://shopify.dev/changelog/inventory-shipment-timestamp-fields",
   "https://shopify.dev/changelog/inventory-states-apis",
+  "https://shopify.dev/changelog/inventory-transfer-webhooks-include-origin-and-destination-location-ids-and-mutation-documentation-clarified",
   "https://shopify.dev/changelog/inventoryactivate-now-preserves-available-quantity",
   "https://shopify.dev/changelog/inventoryitem-input-unification",
   "https://shopify.dev/changelog/inventoryitem-queryable-and-updatable-with-products-scopes",
