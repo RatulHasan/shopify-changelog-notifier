@@ -1444,6 +1444,7 @@
   "https://shopify.dev/changelog/setting-permitsskusharing-argument-to-false-when-creating-a-fulfillment-service-returns-an-error",
   "https://shopify.dev/changelog/ship-and-pickup-in-one-order-feature-preview",
   "https://shopify.dev/changelog/ship-carry-out-in-a-single-order-on-pos-is-now-available-for-retail-pro-merchants-using-eligible-tax-software",
+  "https://shopify.dev/changelog/shipping-line-field-now-available-on-fulfillmentorderlineitem",
   "https://shopify.dev/changelog/shipping-rates-return-backup-rates-for-3xx-and-4xx-carrier-responses",
   "https://shopify.dev/changelog/shippingline-discountedpriceset-now-includes-cart-level-discounts",
   "https://shopify.dev/changelog/shippinglineinput-now-accepts-pricewithcurrency",
