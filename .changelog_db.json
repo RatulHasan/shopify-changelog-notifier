@@ -629,6 +629,7 @@
   "https://shopify.dev/changelog/graphql-schemas-will-use-the-deprecated-directive-for-input-fields-and-arguments",
   "https://shopify.dev/changelog/graphql-support-to-send-customer-account-invite",
   "https://shopify.dev/changelog/guided-search",
+  "https://shopify.dev/changelog/headless-checkout-sso-is-now-documented-with-ssosilent",
   "https://shopify.dev/changelog/highlighting-install-requirements-in-search-and-categories",
   "https://shopify.dev/changelog/host-parameter-added-to-the-oauth-redirect-uri",
   "https://shopify.dev/changelog/hosted-payment-sdk-requests-will-include-a-new-key-value-pair-for-locale",
