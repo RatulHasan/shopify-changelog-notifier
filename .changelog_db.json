@@ -573,6 +573,7 @@
   "https://shopify.dev/changelog/filter-products-by-category-or-taxonomy-metafield",
   "https://shopify.dev/changelog/filter-query-added-to-the-app-bridge-resource-picker-api",
   "https://shopify.dev/changelog/finalizing-compare-and-swap-redesign-for-inventory-set-quantities",
+  "https://shopify.dev/changelog/flow-action-extensions-now-support-relative-paths-for-endpoint-urls",
   "https://shopify.dev/changelog/flow-improved-send-http-request-action-enables-secure-connections-and-returns-data-to-the-workflow",
   "https://shopify.dev/changelog/flow-template-extensions-no-longer-block-deploys",
   "https://shopify.dev/changelog/font-library-updates-automatic-replacement-for-deprecated-fonts",
