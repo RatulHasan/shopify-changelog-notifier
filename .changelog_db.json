@@ -1373,6 +1373,7 @@
   "https://shopify.dev/changelog/removal-of-deprecated-status-field-in-payments-apps-api-2023-04-release",
   "https://shopify.dev/changelog/removal-of-deprecated-storefront-api-checkout-mutations",
   "https://shopify.dev/changelog/removal-of-deprecated-tactics-and-add-ability-to-query-is_external",
+  "https://shopify.dev/changelog/removal-of-itemnotstockedatlocation-error",
   "https://shopify.dev/changelog/removal-of-payment-method-requirement-on-api-created-subscription-contracts",
   "https://shopify.dev/changelog/removal-of-pretaxprice-from-the-order-rest-admin-api",
   "https://shopify.dev/changelog/removal-of-productduplicateasync-mutation-from-the-graphql-admin-api",
