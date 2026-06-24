@@ -1388,6 +1388,7 @@
   "https://shopify.dev/changelog/remove-cancelling-a-fulfillment-for-a-specific-order-id-endpoint",
   "https://shopify.dev/changelog/remove-deprecated-errorcode-and-errormessage-fields-from-subscriptionbillingattempt",
   "https://shopify.dev/changelog/remove-metafielddelete-in-favor-of-metafieldsdelete",
+  "https://shopify.dev/changelog/remove-pricerule-from-draft-order-discount-warning",
   "https://shopify.dev/changelog/remove-rate-limits-on-the-storefront-api",
   "https://shopify.dev/changelog/remove-unprocessed-exchange-lines-from-a-return",
   "https://shopify.dev/changelog/remove-unused-error-codes-from-locationdeactivateusererrorcode",
