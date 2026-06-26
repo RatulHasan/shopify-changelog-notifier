@@ -943,6 +943,7 @@
   "https://shopify.dev/changelog/new-checkoutcharge-field-added-to-the-storefront-api-sellingplan-object",
   "https://shopify.dev/changelog/new-checkoutchargeamount-and-remainingbalancechargeamount-fields-on-storefront-api",
   "https://shopify.dev/changelog/new-checkoutchargeamount-field-added-to-cart-object-on-storefront-api",
+  "https://shopify.dev/changelog/new-checkouttoken-field-added-to-the-order-object",
   "https://shopify.dev/changelog/new-code-for-unrecognized-currencies",
   "https://shopify.dev/changelog/new-collaborator-account-access-security-feature",
   "https://shopify.dev/changelog/new-collection-model-and-apis-now-available",
