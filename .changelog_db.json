@@ -244,6 +244,7 @@
   "https://shopify.dev/changelog/carrier-service-api-now-includes-order-totals-and-customer-tags",
   "https://shopify.dev/changelog/carrier-service-rate-requests-now-include-a-locale-parameter",
   "https://shopify.dev/changelog/carrier-services-and-fulfillment-services-performance-dashboards-are-now-available-in-the-partner-dashboard",
+  "https://shopify.dev/changelog/carrier-services-will-no-longer-be-automatically-added-to-the-default-shipping-profile",
   "https://shopify.dev/changelog/cart-ajax-api-discounts-support-on-cartupdatejs",
   "https://shopify.dev/changelog/cart-ajax-api-inventory-error-message-updates",
   "https://shopify.dev/changelog/cart-ajax-api-removing-all-_count_-_name_-are-in-your-cart-inventory-error-response",
