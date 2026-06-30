@@ -1237,6 +1237,7 @@
   "https://shopify.dev/changelog/payment-app-extensions-deployment-just-got-faster",
   "https://shopify.dev/changelog/payment-apps-can-no-longer-be-embedded-in-the-shopify-admin",
   "https://shopify.dev/changelog/payment-customization-now-supports-customizing-payment-terms",
+  "https://shopify.dev/changelog/payment-mandates-id-field",
   "https://shopify.dev/changelog/payment-method-identifier-now-required-for-customerpaymentmethodremotecreate",
   "https://shopify.dev/changelog/payment-properties-deprecation-on-the-admin-api-order-resource",
   "https://shopify.dev/changelog/payment-session-creation-request-now-includes-a-flag-for-mail-order-telephone-order-payments",
