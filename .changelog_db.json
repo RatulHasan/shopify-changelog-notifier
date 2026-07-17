@@ -243,6 +243,7 @@
   "https://shopify.dev/changelog/buy-button-js-now-defers-checkout-creation-until-a-variant-is-added-to-cart",
   "https://shopify.dev/changelog/buy-button-js-now-offers-support-for-checkout-level-notes",
   "https://shopify.dev/changelog/bxgy-discount-support-for-subscriptions",
+  "https://shopify.dev/changelog/card-deposit-endpoint-now-requires-mtls-certificate",
   "https://shopify.dev/changelog/carrier-service-api-now-includes-order-totals-and-customer-tags",
   "https://shopify.dev/changelog/carrier-service-rate-requests-now-include-a-locale-parameter",
   "https://shopify.dev/changelog/carrier-services-and-fulfillment-services-performance-dashboards-are-now-available-in-the-partner-dashboard",
