@@ -769,6 +769,7 @@
   "https://shopify.dev/changelog/introducing-tracksinventory-query-filter-for-products",
   "https://shopify.dev/changelog/introducing-webhook-topics-for-discount-events",
   "https://shopify.dev/changelog/introduction-of-new-carrier-service-apis",
+  "https://shopify.dev/changelog/invalid-metafield-queries-now-return-errors-in-the-graphql-admin-api",
   "https://shopify.dev/changelog/inventory-item-new-fields-and-productvariant-deprecations",
   "https://shopify.dev/changelog/inventory-item-variant-field-deprecation",
   "https://shopify.dev/changelog/inventory-mutations-and-fields-removal",
