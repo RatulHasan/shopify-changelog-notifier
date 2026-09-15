@@ -1133,6 +1133,7 @@
   "https://shopify.dev/changelog/new-payment-decline-codes-added-to-ordertransactionerrorcode-enum",
   "https://shopify.dev/changelog/new-payment-error-codes-added-to-subscriptions-apis",
   "https://shopify.dev/changelog/new-payment-terms-api",
+  "https://shopify.dev/changelog/new-paymentinstrumentsendaddemail-mutation",
   "https://shopify.dev/changelog/new-pending-mutation-in-payments-apps-api-2022-04-release",
   "https://shopify.dev/changelog/new-planhandle-field-managed-pricing",
   "https://shopify.dev/changelog/new-predictedspendtier-field-on-the-customer-object",
