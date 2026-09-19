@@ -200,6 +200,7 @@
   "https://shopify.dev/changelog/automatic-image-delivery-in-avif",
   "https://shopify.dev/changelog/automatically-add-preview-urls-to-customer-account-api-setup",
   "https://shopify.dev/changelog/automatically-copy-cart-metafields-to-orders-at-checkout-completion",
+  "https://shopify.dev/changelog/automaticdiscounts-query-is-removed-in-api-version-2027-01",
   "https://shopify.dev/changelog/awaiting-return-items-fulfillment-hold-reason",
   "https://shopify.dev/changelog/b2b-order-import-rest-api",
   "https://shopify.dev/changelog/bare-query-strings-no-longer-bust-the-cache-for-assets",
