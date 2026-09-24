@@ -1543,6 +1543,7 @@
   "https://shopify.dev/changelog/set-lineitem-attributes-using-carttransform",
   "https://shopify.dev/changelog/set-metafield-values-for-locations",
   "https://shopify.dev/changelog/set-processed-at-in-refund-create",
+  "https://shopify.dev/changelog/setting-includerestofworld-to-true-returns-an-error-in-api-version-2027-01",
   "https://shopify.dev/changelog/setting-permitsskusharing-argument-to-false-when-creating-a-fulfillment-service-returns-an-error",
   "https://shopify.dev/changelog/ship-and-pickup-in-one-order-feature-preview",
   "https://shopify.dev/changelog/ship-carry-out-in-a-single-order-on-pos-is-now-available-for-retail-pro-merchants-using-eligible-tax-software",
