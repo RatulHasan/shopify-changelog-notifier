@@ -578,6 +578,7 @@
   "https://shopify.dev/changelog/events-data-now-limited-to-one-year-retention",
   "https://shopify.dev/changelog/events-subscription-query-complexity-limit-is-changing-to-100-points",
   "https://shopify.dev/changelog/exchangev2s-field-is-available-behind-beta-flag-on-order-graphql",
+  "https://shopify.dev/changelog/exclusive-timestamp-filters",
   "https://shopify.dev/changelog/expanded-control-of-privacy-settings-using-the-graphql-admin-api",
   "https://shopify.dev/changelog/expanded-targets-for-admin-action-extensions",
   "https://shopify.dev/changelog/expiring-offline-access-tokens-required-for-all-public-apps-as-of-january-1-2027",
