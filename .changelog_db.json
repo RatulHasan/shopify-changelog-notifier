@@ -879,6 +879,7 @@
   "https://shopify.dev/changelog/location-id-queryable-with-inventory-scopes",
   "https://shopify.dev/changelog/locations-now-support-metafields",
   "https://shopify.dev/changelog/make-images-responsive-with-the-new-image_tag-filter",
+  "https://shopify.dev/changelog/make-metafield-definitions-analytics-queryable-from-app-s-toml",
   "https://shopify.dev/changelog/making-changefromquantity-field-required",
   "https://shopify.dev/changelog/making-fielddefinitions-optional-in-metaobjectdefinitioncreate",
   "https://shopify.dev/changelog/making-idempotency-mandatory-for-inventory-adjustments-and-refund-mutations",
