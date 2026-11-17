@@ -1317,6 +1317,7 @@
   "https://shopify.dev/changelog/online-store-media-localizable-to-different-languages-markets",
   "https://shopify.dev/changelog/online-store-script-tags-deprecation",
   "https://shopify.dev/changelog/online-store-speed-report-and-scores-now-accessible-through-the-partner-dashboard",
+  "https://shopify.dev/changelog/opt-in-to-admin-api-token-expiry-in-the-dev-dashboard",
   "https://shopify.dev/changelog/optional-address-validation-in-storefront-api",
   "https://shopify.dev/changelog/optional-groupobjects-argument-in-bulk-operations-mutations-that-offers-faster-and-more-reliable-job-execution",
   "https://shopify.dev/changelog/optional-location-inputs-for-inventory-transfers",
